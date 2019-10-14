@@ -1,0 +1,10 @@
+Welcome to this image repository!
+You can:
+	Create an account; if you do not wish to do so, you can also upload your pictures anonymously.
+	Add your own image; make sure it is uploaded first. 
+	Search for images on the repo. You may search by the image's name, which is not unique.
+typing the following commands in []:
+	[ACCOUNT]	create your account and start selling your pictures
+	[ADD]		add a picture to the repo
+	[SEARCH]	Search a picture by a name
+	[ACCINFO]	see your account information
