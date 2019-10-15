@@ -41,7 +41,7 @@ string User::displayInventoryInfo(){
 		output += inventory[0]->displayImageField();
 	}
 	for (int i = 0; i < inventorySize; ++i){
-		output += "\t"+inventory[i]->displayImageInfo()+ "\n";
+		output += inventory[i]->displayImageInfo();
 	}
 	return output;
 }
